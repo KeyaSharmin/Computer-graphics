@@ -1,3 +1,3 @@
 # Computer-graphics
 
-All the works that I learned in this course.
+My final project of the Computer Graphics course in my undergrad.
